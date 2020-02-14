@@ -3,7 +3,7 @@ title: Parasita
 date: "2020-02-14T09:22:03.284Z"
 description: "Um breve comentário sobre esse filme bizarro"
 ---
-
+![A familia Kim em um de seus momentos iconicos dobrando caixas de pizza](./familia_kim.jpg)
 Eu assisti ontem parasita e ainda estou refletindo sobre o filme que conta essa história bizarra e macabra sobre a família Kim, a família Paik e a família da governanta e sua vida secreta.
 
 A família Kim vivia embaixo de uma casa, em um porão. Não sei ao certo se escondidos ou o quê, mas moravam na parte mais baixa de um prédio se apertando em um espaço minúsculo.
@@ -21,6 +21,6 @@ Ki woo prometeu a si mesmo que um dia compraria a casa e encontraria seu pai out
 
 
 
-![A familia Kim em um de seus momentos iconicos dobrando caixas de pizza](./familia_kim.jpg)
+
 
 
