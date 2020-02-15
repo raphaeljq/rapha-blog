@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Blog do Rapha`,
+    author: `Raphael Chaves`,
+    description: `Um blog para falar sobre algumas coisas`,
+    siteUrl: `https://rapha-blog.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `raphaeljq`,
     },
   },
   plugins: [

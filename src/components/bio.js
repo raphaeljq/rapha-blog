@@ -54,11 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Escrito por <strong>{author}</strong> que vive em Macapá-Ap / Brasil, construindo coisas.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Você pode me seguir no twitter.
         </a>
       </p>
     </div>
