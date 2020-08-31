@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://rapha-blog.netlify.com/`,
     social: {
       twitter: `raphaeljq`,
+      instagram: `raphaeljq`,
     },
   },
   plugins: [

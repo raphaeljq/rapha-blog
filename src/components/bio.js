@@ -54,11 +54,14 @@ const Bio = () => {
         }}
       />
       <p>
-        Escrito por <strong>{author}</strong> que vive em Macapá-Ap / Brasil, construindo coisas.
+        Escrito por <strong>{author}</strong> que vive em Macapá-Ap / Brasil,
+        construindo coisas.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           Você pode me seguir no twitter.
-        </a>
+        </a>{" "}
+        ou no{" "}
+        <a href={`https://instagram.com/${social.instagram}`}>Instagram</a>
       </p>
     </div>
   )
