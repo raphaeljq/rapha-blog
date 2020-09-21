@@ -1,7 +1,7 @@
 ---
 title: Um desenho de cada vez
-date: "2020-09-21"
-description: "O palido ponto azul"
+date: "2020-08-31"
+description: "Uma conversa com a criança que vive em todos nós"
 ---
 
 ![Esse foi o desenho mais desenhado de toda a história](./paisagem.jpg)
